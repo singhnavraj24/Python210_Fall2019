@@ -29,8 +29,7 @@ def print_grid(i,n):
         
     print((plus+(minus)*n)*i+plus)
     
-    if __name__ == '__main__':
-        print_grid(i,n)
+    
     
     
         
